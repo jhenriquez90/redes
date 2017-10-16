@@ -1,0 +1,117 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.app-head{
+background-color: #0787c5 !important;
+  color: white;
+  width: auto;
+  font-size: 3rem;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  box-shadow: -8px 5px 6px rgba(0,0,0,0.5);
+  border-radius: 3px;
+  margin-bottom: 25px; 
+}
+.app-h1{
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+  }
+#logo {
+    
+    display: block;
+    width: 100%;
+    min-height: 110px;
+    margin-top: 10px;
+    text-indent: -999em;
+    background: url(../img/REDES.png) no-repeat center bottom;
+    background-size: contain;
+    background-position: center;
+}
+   .app-login{    
+    margin-top:20px;
+    margin-bottom: 20px;
+    margin-left:  auto;
+    margin-right:  auto;
+    padding: 10px;   
+   
+       }
+   .app-footer{
+    padding: 10px;
+    margin-top: 10px;
+    color: #ffffff;
+    background-color:  #0787c5;
+    text-align: center;
+   }
+.navbar-personalizado{
+  background-color: #0787c5;
+ 
+  margin-bottom: 10px;
+  z-index: 1 !important;
+  
+}
+.navbar-personalizado li>a{
+	color: white;
+text-shadow: none;
+margin-top:25px;
+height: 50px;
+border-bottom: none;
+}
+
+.navbar-personalizado li>a:hover{
+  background-color: #2797cd !important;
+
+  border-bottom: 1px solid #0670a3;
+ 
+}
+.navbar-dropdown{
+  background-color: #2797cd !important;
+  
+  text-shadow: none;
+}
+.navbar-dropdown li>a{
+  color: white !important;
+  text-shadow: none;
+border-top: none;
+text-align: center;
+  
+}
+.navbar-dropdown li>a:hover{
+  background-color: #2797cd !important;
+  border-top: 1px solid #2797cd;
+  border-right: 1px solid #0670a3;
+  color: black !important;
+  
+}
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus{
+  background-color: #2797cd !important;
+}
+.app-bar{
+  background-color: #fcfcfc;
+}
+
+.app-load{
+  position: relative;
+    margin:0 auto;
+  }
+
+ .app-container{
+ 	border: solid 1px #afa8a8;
+ 	box-shadow: 4px 4px 8px #afa8a8;
+ 	border-radius: 5px;
+ 	margin-top: 25px;
+ 	margin-bottom: 25px;
+ 	padding-top: 15px;
+ 	padding-bottom: 15px;
+
+}
+
+
+
+
+
+
+
